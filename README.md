@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
+| [1652-defuse-the-bomb](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
+| [1652-defuse-the-bomb](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Prefix Sum
 |  |
