@@ -23,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
