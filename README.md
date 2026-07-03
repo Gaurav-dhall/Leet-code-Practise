@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
