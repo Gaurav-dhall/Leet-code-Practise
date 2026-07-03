@@ -1,65 +1,41 @@
 class Solution {
+
+    int i = 0;
+
     public String decodeString(String s) {
-        Stack<Integer> num = new Stack<>();
-        Stack<String> st = new Stack<>();
-        int i=0;
-        int n=s.length();
+        StringBuilder ans = new StringBuilder();
+        int k = 0;
 
-       
-            
+        while (i < s.length()) {
 
-            while(i<n){
-                int k=0;
-                
-                 while (i<n&&s.charAt(i)!=']') {
-                    char ch=s.charAt(i);
-                if (Character.isDigit(ch)) {
-                    k=k*10+(ch-'0');
-                   
-                }
-                else{
-                    if(ch=='['){
-                         num.push(k);
-                        k=0;
-                    }
-                    st.push(Character.toString(ch));
-                }
+            char ch = s.charAt(i);
+
+            if (Character.isDigit(ch)) {
+                k = k * 10 + (ch - '0');
+            }
+
+            else if (ch == '[') {
                 i++;
-            }
-            StringBuilder sb= new StringBuilder();
 
-            while(!st.isEmpty()&&!st.peek().equals("[")){
-                sb.append(st.pop());
-            }
-            String rep=sb.toString();
-            if(!st.isEmpty()){
+                String decoded = decodeString(s);
 
-            st.pop();
-            }
-            int iter=1;
-            if(!num.isEmpty()){
+                for (int j = 0; j < k; j++)
+                    ans.append(decoded);
 
-            iter=num.pop();
+                k = 0;
             }
 
-            for(int m=1;m<=iter-1;m++){
-                sb.append(rep);
+            else if (ch == ']') {
+                return ans.toString();
             }
 
-            st.push(sb.toString());
+            else {
+                ans.append(ch);
+            }
+
             i++;
-
-
-
-            }
-            StringBuilder ans= new StringBuilder();
-
-            while(!st.isEmpty()){
-                ans.append(st.pop());
-            }
-
-            return ans.reverse().toString();
-           
         }
 
+        return ans.toString();
     }
+}
