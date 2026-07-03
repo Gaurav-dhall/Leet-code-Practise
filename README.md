@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
+| [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0394-decode-string) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
