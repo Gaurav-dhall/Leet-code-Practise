@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2315-count-asterisks](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2315-count-asterisks) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 ## Recursion
 |  |
 | ------- |
@@ -91,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
