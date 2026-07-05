@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
