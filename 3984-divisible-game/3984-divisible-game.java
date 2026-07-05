@@ -39,26 +39,30 @@ class Solution {
             // Create transformed array
             int[] temp = new int[nums.length];
 
-            for (int i = 0; i < nums.length; i++) {
-                if (nums[i] % k == 0)
-                    temp[i] = nums[i];
-                else
-                    temp[i] = -nums[i];
-            }
+            
 
             // Kadane's Algorithm
-            int l = 0;
+           
             int r = 0;
             int subSum = 0;
             int maxSum = Integer.MIN_VALUE;
 
             while (r < temp.length) {
+                 if (nums[r] % k == 0){
+                        temp[r] = nums[r];
+                 }
+                
+                else{
+                    temp[r] = -nums[r];
+                }
+
+
 
                 if (subSum + temp[r] > temp[r]) {
                     subSum += temp[r];
                 } else {
                     subSum = temp[r];
-                    l = r;
+                    
                 }
 
                 if (subSum > maxSum) {
