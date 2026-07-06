@@ -1,14 +1,14 @@
 class Solution {
     public int longestPalindrome(String s) {
         int n=s.length();
-        int [] hash= new int[300];
+        int [] hash= new int[128];
         for(int i=0;i<n;i++){
             hash[s.charAt(i)]++;
         }
         int len=0;
         Boolean flag=false;
 
-        for(int i=0;i<300;i++){
+        for(int i=0;i<128;i++){
             if(hash[i]==1){
                 flag=true;
             }
