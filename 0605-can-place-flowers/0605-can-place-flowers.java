@@ -16,7 +16,7 @@ class Solution {
             }
 
             if(flowerbed[i]==1){
-                i++;
+                i=i+2;
                 continue;
             }
             else{
@@ -27,8 +27,7 @@ class Solution {
                     }
                     flowerbed[i]=1;
                     n--;
-                    i++;
-                    continue;
+                   
                 }
 
                 else if(i==flowerbed.length-1){
@@ -55,7 +54,7 @@ class Solution {
                
             }
 
-            i++;
+            i=i+2;
         }
 
         if(n==0){
