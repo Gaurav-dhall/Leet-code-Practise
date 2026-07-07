@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
