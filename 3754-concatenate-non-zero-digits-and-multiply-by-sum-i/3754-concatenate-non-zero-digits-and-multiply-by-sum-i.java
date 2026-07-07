@@ -11,23 +11,22 @@ class Solution {
     }
     public long sumAndMultiply(int n) {
         int newNum=0;
+         int len=findLength(n);
+         int sum=0;
         
 
         while(n>0){
-            int fd=n/(int)Math.pow(10,findLength(n)-1);
+           
+            int fd=n/(int)Math.pow(10,len-1);
             if(fd!=0){
                 newNum=newNum*10+fd;
+                sum+=fd;
             }
-            n=n%(int)Math.pow(10,findLength(n)-1);
+            n=n%(int)Math.pow(10,len-1);
+            len--;
         }
 
-        int x=newNum;
-        int sum=0;
-        while(x>0){
-            int ld=x%10;
-            sum+=ld;
-            x=x/10;
-        }
+        
 
         return (long) newNum*sum;
     }
