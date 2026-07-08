@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2315-count-asterisks](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2315-count-asterisks) |
 | [3692-majority-frequency-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3692-majority-frequency-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
 | ------- |
