@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1652-defuse-the-bomb) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
