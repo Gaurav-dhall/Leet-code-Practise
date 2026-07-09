@@ -28,7 +28,7 @@ class Solution {
             int size=q.size();
             List<Integer> subList= new ArrayList<>();
         for(int i=0;i<size;i++){
-            TreeNode curr=q.peek();
+            TreeNode curr=q.poll();
 
             if(curr.left!=null){
                 q.offer(curr.left);
@@ -37,7 +37,7 @@ class Solution {
                 q.offer(curr.right);
             }
 
-            subList.add(q.poll().val);
+            subList.add(curr.val);
         }
 
         ans.add(subList);
