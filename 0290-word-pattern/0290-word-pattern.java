@@ -1,34 +1,29 @@
 class Solution {
     public boolean wordPattern(String pattern, String s) {
-        String [] hash= new String [26];
-        String [] words= s.split(" ");
+        
+        Map<String,Character> hash= new HashMap<>();
+
+        String[] words= s.split(" ");
         if(pattern.length()!=words.length){
             return false;
         }
-        int count=0;
-        System.out.print(Arrays.toString(words));
-        for (char ch:pattern.toCharArray()){
-            int i=ch-'a';
-            
-            if(hash[i]==null){
-                for(int j=0;j<26;j++){
-                    if(hash[j]!=null&&hash[j].equals(words[count])){
+
+        for(int i=0;i<words.length;i++){
+            if(!hash.containsKey(words[i])){
+                for(Character ch:hash.values()){
+                    if(ch==pattern.charAt(i)){
                         return false;
                     }
-
                 }
-                hash[i]=words[count];
+                hash.put(words[i],pattern.charAt(i));
             }
             else{
-                if(!hash[i].equals(words[count])){
+                if(hash.get(words[i])!=pattern.charAt(i)){
                     return false;
                 }
-               
             }
-            count++;
         }
 
         return true;
-
     }
 }
