@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0345-reverse-vowels-of-a-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0563-binary-tree-tilt) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0563-binary-tree-tilt) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0563-binary-tree-tilt) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
 | ------- |
