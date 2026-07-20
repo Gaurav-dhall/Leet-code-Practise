@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1108-defanging-an-ip-address) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [3692-majority-frequency-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3692-majority-frequency-characters) |
 ## Stack
 |  |
@@ -271,4 +275,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0222-count-complete-tree-nodes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
