@@ -59,7 +59,7 @@ class Solution {
                 
             }
 
-            ans=Integer.max(ans,right-left+1);
+            ans=Math.max(ans,right-left+1);
         }
 
         return ans;
