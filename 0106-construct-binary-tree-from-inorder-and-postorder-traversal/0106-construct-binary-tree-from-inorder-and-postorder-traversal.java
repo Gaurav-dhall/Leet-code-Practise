@@ -15,27 +15,22 @@
  */
 class Solution {
     
+    Map<Integer,Integer> index= new HashMap<>();
+    private TreeNode findTree(int [] inorder, int[] postorder, int inStart, int inEnd, int postStart,int postEnd){
 
-    private TreeNode findTree(int [] inorder,int[] postorder){
-
-        if(inorder.length==0||postorder.length==0){
+        if(inStart>inEnd||postStart>postEnd){
             return null;
         }
-        TreeNode root = new TreeNode(postorder[postorder.length-1]);
-        if(inorder.length==1&&postorder.length==1){
+        TreeNode root = new TreeNode(postorder[postEnd]);
+        if(inStart==inEnd&&postStart==postEnd){
             return root;
         }
-        int i=0;
-        for(int k=0;k<inorder.length;k++){
-            if(inorder[k]==postorder[postorder.length-1]){
-                i=k;
-                break;
-            }
-        }
+        int i=index.get(postorder[postEnd]);
+        int leftSize=i-inStart;
         
-        root.left=findTree(Arrays.copyOfRange(inorder,0,i),Arrays.copyOfRange(postorder,0,i));
+        root.left=findTree(inorder,postorder,inStart,i-1,postStart,postStart+leftSize-1);
 
-        root.right=findTree(Arrays.copyOfRange(inorder,i+1,inorder.length),Arrays.copyOfRange(postorder,i,postorder.length-1));
+        root.right=findTree(inorder,postorder,i+1,inEnd,postStart+leftSize,postEnd-1);
 
         return root;
 
@@ -44,10 +39,12 @@ class Solution {
 
     public TreeNode buildTree(int[] inorder, int[] postorder) {
       
-
+        for(int i=0;i<inorder.length;i++){
+            index.put(inorder[i],i);
+        }
       
        
 
-       return findTree(inorder,postorder);
+       return findTree(inorder,postorder,0,inorder.length-1,0,postorder.length-1);
     }
 }
