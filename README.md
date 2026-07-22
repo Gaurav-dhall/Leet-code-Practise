@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0290-word-pattern) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0113-path-sum-ii) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0113-path-sum-ii) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Linked List
 |  |
 | ------- |
