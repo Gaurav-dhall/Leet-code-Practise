@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    String min="zzzzzzzzzzzzzzzzzzzzzzzzzz";
     List<String> str= new ArrayList<>();
     public void findDfs(TreeNode root,StringBuilder sb){
         sb.append((char)('a'+root.val));
@@ -27,7 +28,9 @@ class Solution {
 
         if(root.left==null&&root.right==null){
             StringBuilder temp = new StringBuilder(sb);
-            str.add(temp.reverse().toString());
+            if(temp.reverse().toString().compareTo(min)<0){
+                min=temp.toString();
+            }
            
            
         }
@@ -36,13 +39,9 @@ class Solution {
     }
     public String smallestFromLeaf(TreeNode root) {
         findDfs(root,new StringBuilder());
-        String min="zzzzzzzzzzzzzzzzzzzzzzzzzz";
+        
 
-        for(int i=0;i<str.size();i++){
-            if(str.get(i).compareTo(min)<0){
-                min=str.get(i);
-            }
-        }
+       
 
         return min;
     }
