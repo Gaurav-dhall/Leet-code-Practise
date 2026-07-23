@@ -15,7 +15,7 @@
  */
 class Solution {
     String min="zzzzzzzzzzzzzzzzzzzzzzzzzz";
-    List<String> str= new ArrayList<>();
+    
     public void findDfs(TreeNode root,StringBuilder sb){
         sb.append((char)('a'+root.val));
         if(root.left!=null){
