@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0424-longest-repeating-character-replacement) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0135-candy) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0561-array-partition) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
@@ -299,10 +303,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
