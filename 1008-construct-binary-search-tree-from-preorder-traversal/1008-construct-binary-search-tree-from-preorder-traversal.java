@@ -14,26 +14,24 @@
  * }
  */
 class Solution {
-    public TreeNode findTree(int[] preorder,int[] inorder){
+    Map<Integer,Integer> ind= new HashMap<>();
+    public TreeNode findTree(int[] preorder,int[] inorder,int prestart,int preend,int instart,int inend){
 
-           if (preorder == null || inorder == null || preorder.length == 0 || inorder.length == 0) {
+           if (prestart>preend&&instart>inend) {
             return null;
         }
         
-         if(inorder.length==1&&preorder.length==1){
-            return new TreeNode(preorder[0]);
+         if(prestart==preend&&instart==inend){
+            return new TreeNode(preorder[prestart]);
         }
-        TreeNode root=new TreeNode(preorder[0]);
+        TreeNode root=new TreeNode(preorder[prestart]);
        
-        int index=0;
-        for(int i=0;i<inorder.length;i++){
-            if(inorder[i]==root.val){
-                index=i;
-            }
-        }
+        int index=ind.get(preorder[prestart]);
+        int sizeLeft=index-instart;
+       
 
-        root.left=findTree(Arrays.copyOfRange(preorder,1,index+1),Arrays.copyOfRange(inorder,0,index));
-        root.right=findTree(Arrays.copyOfRange(preorder,index+1,preorder.length),Arrays.copyOfRange(inorder,index+1,inorder.length));
+        root.left=findTree(preorder,inorder,prestart+1,prestart+sizeLeft,instart,instart+sizeLeft-1);
+        root.right=findTree(preorder,inorder,prestart+sizeLeft+1,preend,instart+sizeLeft+1,inend);
 
         return root;
     }
@@ -44,8 +42,11 @@ class Solution {
         }
 
         Arrays.sort(preorder);
+        for(int i=0;i<preorder.length;i++){
+            ind.put(preorder[i],i);
+        }
         
 
-       return findTree(pre,preorder);
+       return findTree(pre,preorder,0,pre.length-1,0,preorder.length-1);
     }
 }
