@@ -14,39 +14,29 @@
  * }
  */
 class Solution {
-    Map<Integer,Integer> ind= new HashMap<>();
-    public TreeNode findTree(int[] preorder,int[] inorder,int prestart,int preend,int instart,int inend){
-
-           if (prestart>preend&&instart>inend) {
+    public TreeNode findTree(int[] preorder,int preStart,int preEnd){
+        if(preStart>preEnd){
             return null;
         }
-        
-         if(prestart==preend&&instart==inend){
-            return new TreeNode(preorder[prestart]);
+        if(preStart==preEnd){
+            return new TreeNode(preorder[preStart]);
         }
-        TreeNode root=new TreeNode(preorder[prestart]);
-       
-        int index=ind.get(preorder[prestart]);
-        int sizeLeft=index-instart;
-       
+        TreeNode root= new TreeNode(preorder[preStart]);
+        int index=preEnd;
+        for(int i=preStart;i<=preEnd;i++){
+            if(preorder[i]>root.val){
+                index=i-1;
+                break;
+            }
+        }
 
-        root.left=findTree(preorder,inorder,prestart+1,prestart+sizeLeft,instart,instart+sizeLeft-1);
-        root.right=findTree(preorder,inorder,prestart+sizeLeft+1,preend,instart+sizeLeft+1,inend);
+        int leftSize=index-preStart;
+        root.left=findTree(preorder,preStart+1,preStart+leftSize);
+        root.right=findTree(preorder,preStart+leftSize+1,preEnd);
 
         return root;
     }
     public TreeNode bstFromPreorder(int[] preorder) {
-        int[] pre= new int[preorder.length];
-        for(int i=0;i<pre.length;i++){
-            pre[i]=preorder[i];
-        }
-
-        Arrays.sort(preorder);
-        for(int i=0;i<preorder.length;i++){
-            ind.put(preorder[i],i);
-        }
-        
-
-       return findTree(pre,preorder,0,pre.length-1,0,preorder.length-1);
+       return findTree(preorder,0,preorder.length-1);
     }
 }
