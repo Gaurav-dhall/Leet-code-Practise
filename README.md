@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -368,4 +372,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
