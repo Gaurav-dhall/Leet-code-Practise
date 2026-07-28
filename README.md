@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2315-count-asterisks](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2315-count-asterisks) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3692-majority-frequency-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3692-majority-frequency-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0561-array-partition) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
 | ------- |
