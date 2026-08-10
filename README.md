@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
