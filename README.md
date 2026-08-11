@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Matrix
 |  |
 | ------- |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
