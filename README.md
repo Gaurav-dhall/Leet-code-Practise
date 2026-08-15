@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Counting Sort
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1791-find-center-of-star-graph) |
@@ -533,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
