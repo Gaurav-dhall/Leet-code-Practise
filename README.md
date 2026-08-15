@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Prefix Sum
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
