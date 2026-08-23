@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1446-consecutive-characters) |
+| [1927-sum-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2315-count-asterisks](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2315-count-asterisks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1927-sum-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
@@ -558,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
