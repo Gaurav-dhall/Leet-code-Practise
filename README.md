@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0997-find-the-town-judge) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -575,4 +578,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0509-fibonacci-number) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
