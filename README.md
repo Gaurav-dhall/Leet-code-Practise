@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1584-min-cost-to-connect-all-points) |
@@ -560,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
