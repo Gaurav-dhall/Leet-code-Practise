@@ -1,6 +1,6 @@
 class Disjoint{
-    List<Integer> parent= new ArrayList<>();
-    List<Integer> sizes= new ArrayList<>();
+    public List<Integer> parent= new ArrayList<>();
+   public  List<Integer> sizes= new ArrayList<>();
 
     Disjoint(int n){
         for(int i=0;i<n;i++){
@@ -52,7 +52,7 @@ class Solution {
         }
 
         for(int i=0;i<n;i++){
-           count= com.findUpar(i)==i?count+1:count;
+           count=com.parent.get(i)==i?count+1:count;
         }
 
         return count-1;
