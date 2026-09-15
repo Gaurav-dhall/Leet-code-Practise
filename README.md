@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0709-to-lower-case) |
+| [0721-accounts-merge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0721-accounts-merge) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1108-defanging-an-ip-address](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0930-binary-subarrays-with-sum) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0721-accounts-merge) |
 | [0976-largest-perimeter-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0976-largest-perimeter-triangle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1331-rank-transform-of-an-array) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0563-binary-tree-tilt) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
@@ -508,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1020-number-of-enclaves) |
