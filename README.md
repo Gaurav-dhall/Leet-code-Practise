@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0367-valid-perfect-square) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0509-fibonacci-number) |
 ## Minimum Spanning Tree
 |  |
