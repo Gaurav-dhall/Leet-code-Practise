@@ -5,38 +5,44 @@ class Solution {
         if(n==1){
             return nums[0];
         }
-        int [] dp = new int[n];
-        dp[1]=nums[1];
-        int neg=0;
+      
+        int prev=nums[1];
+        int prev2=0;
         
         for(int i=2;i<nums.length;i++){
             int pick=nums[i]; 
             if(i>2){
-                pick+=dp[i-2];
+                pick+=prev2;
             }
-        int notPick=0+dp[i-1];
+        int notPick=0+prev;
 
-        dp[i]=Math.max(pick,notPick);
+        int curr=Math.max(pick,notPick);
+
+        prev2=prev;
+        prev=curr;
 
         }
 
-        int first=dp[n-1];
+        int first=prev;
 
-        int [] dp2 = new int[n];
-        dp2[0]=nums[0];
-        int neg2=0;
+      
+        prev=nums[0];
+       prev2=0;
         
         for(int i=1;i<nums.length-1;i++){
             int pick=nums[i]; 
             if(i>1){
-                pick+=dp2[i-2];
+                pick+=prev2;
             }
-        int notPick=0+dp2[i-1];
+        int notPick=0+prev;
 
-        dp2[i]=Math.max(pick,notPick);
+        int curr=Math.max(pick,notPick);
+
+        prev2=prev;
+        prev=curr;
 
         }
-        int sec=dp2[n-2];
+        int sec=prev;
 
         return Math.max(first,sec);
     }
