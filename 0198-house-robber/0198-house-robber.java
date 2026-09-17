@@ -1,32 +1,29 @@
 class Solution {
-    public int helper(int [] nums,int i,int n,int [] dp){
-        if(i==n-1||i==n-2){
-            return nums[i];
+    public int helper(int [] nums,int i,int [] dp){
+        if(i==0){
+            return nums[0];
         }
 
-        if(i>=0&&dp[i]!=-1){
+        if(i<0){
+            return 0;
+        }
+        if(dp[i]!=-1){
             return dp[i];
         }
 
-        int maxNum=Integer.MIN_VALUE;
-        for(int k=2;k<=n-i-1;k++){
-           maxNum=Math.max(maxNum,helper(nums,i+k,n,dp)) ;
-        }
+        int pick=nums[i]+helper(nums,i-2,dp);
+        int notPick=0+helper(nums,i-1,dp);
 
-        if(i>=0){
-            maxNum+=nums[i];
-             dp[i]=maxNum;
-        }
-
-       
-
-        return maxNum;
+       dp[i]= Math.max(pick,notPick);
+       return Math.max(pick,notPick);
     }
     public int rob(int[] nums) {
-        int [] dp = new int[nums.length];
-        for(int i=0;i<dp.length;i++){
+        int n=nums.length;
+        int [] dp = new int [n];
+
+        for(int i=0;i<n;i++){
             dp[i]=-1;
         }
-     return helper(nums,-2,nums.length,dp);
+       return helper(nums,n-1,dp);
     }
 }
