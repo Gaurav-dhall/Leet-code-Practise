@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0542-01-matrix) |
