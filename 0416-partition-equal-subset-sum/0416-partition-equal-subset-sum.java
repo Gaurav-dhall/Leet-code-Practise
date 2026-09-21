@@ -37,14 +37,32 @@ class Solution {
             return false;
         }
 
-        int [][] dp= new int[n][sum/2+1];
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<dp[i].length;j++){
-                dp[i][j]=-1;
+        boolean [][] dp= new boolean[n][sum/2+1];
+        for(int i=0;i<dp.length;i++){
+            dp[i][0]=true;
+        }
+        if(nums[0]==sum/2){
+
+        dp[0][sum/2]=true;
+        }
+
+        for(int i=1;i<n;i++){
+            for(int j=1;j<sum/2+1;j++){
+                boolean not=dp[i-1][j];
+                boolean take=false;
+                if(nums[i]<=j){
+                    take=dp[i-1][j-nums[i]];
+                }
+
+                dp[i][j]=take||not;
             }
         }
 
-       return helper(nums,sum/2,n-1,dp)==1?true:false;
+        return dp[n-1][sum/2];
+
+        
+
+       
     }
 }
