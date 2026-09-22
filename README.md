@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0455-assign-cookies) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0509-fibonacci-number) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -671,9 +674,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0416-partition-equal-subset-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
