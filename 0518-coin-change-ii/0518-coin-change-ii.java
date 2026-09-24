@@ -27,29 +27,31 @@ class Solution {
 
     public int change(int amount, int[] coins) {
         int n = coins.length;
-        int[][] dp = new int[n][amount + 1];
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = 1;
-        }
+        int[] prev = new int[amount + 1];
+        prev[0]=1;
+        
 
         for (int j = coins[0]; j < amount + 1; j++) {
             if (j % coins[0] == 0) {
-                dp[0][j] = 1;
+                prev[j] = 1;
             }
         }
 
         for (int i = 1; i < n; i++) {
+            int [] temp= new int[amount+1];
+            temp[0]=1;
             for (int j = 0; j < amount + 1; j++) {
-                int notTake = dp[i - 1][j];
+                int notTake = prev[j];
                 int take = 0;
 
                 if (coins[i] <= j) {
-                    take = dp[i][ j - coins[i]];
+                    take = temp[ j - coins[i]];
                 }
 
-                dp[i][j] = take + notTake;
+                temp[j] = take + notTake;
             }
+            prev=temp;
         }
-        return dp[n - 1][ amount] ;
+        return prev[ amount] ;
     }
 }
