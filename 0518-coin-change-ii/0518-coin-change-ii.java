@@ -38,19 +38,19 @@ class Solution {
         }
 
         for (int i = 1; i < n; i++) {
-            int [] temp= new int[amount+1];
-            temp[0]=1;
-            for (int j = 0; j < amount + 1; j++) {
+            
+          
+            for (int j = 0; j <amount+1; j++) {
                 int notTake = prev[j];
                 int take = 0;
 
                 if (coins[i] <= j) {
-                    take = temp[ j - coins[i]];
+                    take = prev[ j - coins[i]];
                 }
 
-                temp[j] = take + notTake;
+                prev[j] = take + notTake;
             }
-            prev=temp;
+           
         }
         return prev[ amount] ;
     }
