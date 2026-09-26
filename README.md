@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0268-missing-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0290-word-pattern) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0213-house-robber-ii) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0322-coin-change) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0509-fibonacci-number) |
 ## Minimum Spanning Tree
 |  |
@@ -709,4 +714,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1143-longest-common-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
