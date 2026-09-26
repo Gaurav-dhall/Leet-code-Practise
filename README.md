@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1108-defanging-an-ip-address](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1446-consecutive-characters) |
 | [1927-sum-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1927-sum-game) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Counting Sort
 |  |
