@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2315-count-asterisks](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2315-count-asterisks) |
+| [2484-count-palindromic-subsequences](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2484-count-palindromic-subsequences) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/3498-reverse-degree-of-a-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2484-count-palindromic-subsequences](https://github.com/Gaurav-dhall/Leet-code-Practise/tree/master/2484-count-palindromic-subsequences) |
 ## Counting Sort
 |  |
 | ------- |
