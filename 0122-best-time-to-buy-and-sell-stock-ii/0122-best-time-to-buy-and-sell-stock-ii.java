@@ -3,28 +3,30 @@ class Solution {
     public int maxProfit(int[] prices) {
         int n=prices.length;
         int [] prev= new int[2];
+        int b=0;
+        int s=0;
 
         for(int i=n-1;i>=0;i--){
-            int [] temp= new int[2];
+           
             for(int buy=0;buy<2;buy++){
                 
                 if(buy==1){
-                    int take=-prices[i]+prev[0];
-                    int notTake=prev[1];
+                    int take=-prices[i]+s;
+                    int notTake=b;
 
-                    temp[buy]=Math.max(take,notTake);
+                    b=Math.max(take,notTake);
                 }
                 else{
-                    int sell=prices[i]+prev[1];
-                    int notSell=prev[0];
+                    int sell=prices[i]+b;
+                    int notSell=s;
 
-                    temp[buy]=Math.max(sell,notSell);
+                    s=Math.max(sell,notSell);
                 }
             }
-            prev=temp;
+         
         }
 
-        return prev[1];
+        return b;
 
         
        
